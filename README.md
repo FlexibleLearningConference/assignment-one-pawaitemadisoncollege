@@ -17,4 +17,6 @@ Example assignment created for the *GitHub in the Classroom* talk which you can 
 
 - [ ] [Create](https://classroom.github.com/classrooms) your first assignment in one of your classrooms.
 
-- [ ] Let me know what you think! [pawaite@madisconcollege.edu](mailto:pawaite@madisoncollege.edu)
+- [ ] Extra Challenge: [Create your own website](https://pages.github.com).
+
+- [ ] Let me know if you have questions or would like to share your experience with GitHub! [pawaite@madisconcollege.edu](mailto:pawaite@madisoncollege.edu)
