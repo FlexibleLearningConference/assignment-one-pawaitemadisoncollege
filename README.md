@@ -11,7 +11,7 @@ Example assignment created for the *GitHub in the Classroom* talk which you can 
 
 - [ ] [Create](https://help.github.com/articles/creating-a-new-organization-from-scratch/) an organization for your class.
 
-- [ ] [Create](https://classroom.github.com/classrooms) a classroom.
+- [ ] [Create](https://classroom.github.com/classrooms) a classroom. I generally create one classroom for each organization/class.
 
 - [ ] [Watch videos](https://www.youtube.com/watch?v=ChA_zph7aao) to learn more about GitHub Classroom.
 
