@@ -1,8 +1,7 @@
 # GitHub Education Assignment 1
 
-Example assignment created for the GitHub in the Classroom talk.
+Example assignment created for the *GitHub in the Classroom* talk which you can use as a "Getting Started" guide for GitHub for Education. 
 
-Here is how you can get started with GitHub for Education.
 
 - [ ] Set up a github account. You probably already did that if you are here, but if not, follow the steps [here]( https://help.github.com/categories/setup/) to sign up.
 
